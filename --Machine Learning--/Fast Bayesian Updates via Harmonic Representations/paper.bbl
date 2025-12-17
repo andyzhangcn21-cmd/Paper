@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{gelman2013bayesian}
+Andrew Gelman, John~B Carlin, Hal~S Stern, David~B Dunson, Aki Vehtari, and
+  Donald~B Rubin.
+\newblock {\em Bayesian data analysis}.
+\newblock Chapman and Hall/CRC, 2013.
+
+\bibitem{neal2011mcmc}
+Radford~M Neal.
+\newblock Mcmc using hamiltonian dynamics.
+\newblock {\em Handbook of markov chain monte carlo}, 2(11):2, 2011.
+
+\bibitem{robert1999monte}
+Christian~P Robert and George Casella.
+\newblock Monte carlo statistical methods.
+\newblock {\em Springer Texts in Statistics}, 1999.
+
+\bibitem{tierney1994markov}
+Luke Tierney.
+\newblock Markov chains for exploring posterior distributions.
+\newblock {\em The Annals of Statistics}, 22(4):1701--1728, 1994.
+
+\bibitem{wainwright2008graphical}
+Martin~J Wainwright and Michael~I Jordan.
+\newblock Graphical models, exponential families, and variational inference.
+\newblock {\em Foundations and Trends{\textregistered} in Machine Learning},
+  1(1--2):1--305, 2008.
+
+\bibitem{opper2009variational}
+R.~Oppermann and M.~Opper.
+\newblock The variational gaussian approximation revisited.
+\newblock {\em Neural computation}, 21(3):786--792, 2009.
+
+\bibitem{ghahramani2015probabilistic}
+Zoubin Ghahramani.
+\newblock Probabilistic machine learning and artificial intelligence.
+\newblock {\em Nature}, 521(7553):452--459, 2015.
+
+\bibitem{cooley1965algorithm}
+James~W Cooley and John~W Tukey.
+\newblock An algorithm for the machine calculation of complex fourier series.
+\newblock {\em Mathematics of computation}, 19(90):297--301, 1965.
+
+\bibitem{de2024fourier}
+Alfredo De~la Fuente, Saurabh Singh, and Johannes Ball{\'e}.
+\newblock Fourier basis density model.
+\newblock {\em arXiv preprint arXiv:2402.15345}, 2024.
+
+\bibitem{moser1993fourier}
+HG~Moser.
+\newblock Fourier analysis or log-likelihood fit for time dependent mixing.
+\newblock Technical report, 1993.
+
+\bibitem{suzuki2018exact}
+Atsushi Suzuki and Kenji Yamanishi.
+\newblock Exact calculation of normalized maximum likelihood code length using
+  fourier analysis.
+\newblock In {\em 2018 IEEE International Symposium on Information Theory
+  (ISIT)}, pages 1211--1215. IEEE, 2018.
+
+\bibitem{kay1993fundamentals}
+Steven~M Kay.
+\newblock {\em Fundamentals of statistical signal processing: estimation
+  theory}.
+\newblock Prentice-Hall, Inc., 1993.
+
+\bibitem{rasmussen2006gaussian}
+Carl~Edward Rasmussen and Christopher~KI Williams.
+\newblock {\em Gaussian processes for machine learning}.
+\newblock MIT press, 2006.
+
+\bibitem{boyd2001chebyshev}
+John~P Boyd.
+\newblock {\em Chebyshev and Fourier spectral methods}.
+\newblock Dover Publications, 2001.
+
+\bibitem{trefethen2000spectral}
+Lloyd~N Trefethen.
+\newblock {\em Spectral methods in MATLAB}, volume~10.
+\newblock SIAM, 2000.
+
+\bibitem{wasserman2006all}
+Larry Wasserman.
+\newblock {\em All of nonparametric statistics}.
+\newblock Springer Science \& Business Media, 2006.
+
+\bibitem{mackay2003information}
+David~JC MacKay.
+\newblock {\em Information theory, inference and learning algorithms}.
+\newblock Cambridge university press, 2003.
+
+\bibitem{hastie2009elements}
+Trevor Hastie, Robert Tibshirani, and Jerome~H Friedman.
+\newblock {\em The elements of statistical learning: data mining, inference,
+  and prediction}.
+\newblock Springer, 2009.
+
+\end{thebibliography}

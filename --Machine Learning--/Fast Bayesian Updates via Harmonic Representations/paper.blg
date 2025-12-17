@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--empty institution in moser1993fourier
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            548 strings with 5876 characters,
+and the built_in function-call counts, 3478 in all, are:
+= -- 312
+> -- 126
+< -- 2
++ -- 51
+- -- 33
+* -- 185
+:= -- 556
+add.period$ -- 55
+call.type$ -- 18
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 179
+empty$ -- 372
+format.name$ -- 33
+if$ -- 787
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 25
+newline$ -- 93
+num.names$ -- 18
+pop$ -- 76
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 64
+stack$ -- 0
+substring$ -- 168
+swap$ -- 30
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 32
+width$ -- 20
+write$ -- 191
+(There was 1 warning)

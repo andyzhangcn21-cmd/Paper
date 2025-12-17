@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{abramsky1994domain}
+Samson Abramsky and Achim Jung.
+\newblock {\em Domain theory}.
+\newblock Clarendon Press, 1994.
+
+\bibitem{carlsson2009topology}
+Gunnar Carlsson.
+\newblock {\em Topology and data}.
+\newblock American Mathematical Society, 2009.
+
+\bibitem{cassandras2009introduction}
+Christos~G Cassandras and St{\'e}phane Lafortune.
+\newblock {\em Introduction to discrete event systems}.
+\newblock Springer, 2009.
+
+\bibitem{cimatti2002nusmv}
+Alessandro Cimatti, Edmund Clarke, Enrico Giunchiglia, Fausto Giunchiglia,
+  Marco Pistore, Marco Roveri, Roberto Sebastiani, and Armando Tacchella.
+\newblock Nusmv 2: An opensource tool for symbolic model checking.
+\newblock In {\em International Conference on Computer Aided Verification}.
+  Springer, 2002.
+
+\bibitem{clarke2018model}
+Edmund~M Clarke, Thomas~A Henzinger, Helmut Veith, and Roderick Bloem.
+\newblock {\em Model checking}.
+\newblock MIT press, 2018.
+
+\bibitem{fajstrup2006directed}
+Lisbeth Fajstrup, Martin Raussen, and Eric Goubault.
+\newblock {\em Directed algebraic topology and concurrency}.
+\newblock Springer, 2006.
+
+\bibitem{hoare1985communicating}
+Charles Antony~Richard Hoare.
+\newblock {\em Communicating sequential processes}.
+\newblock Prentice-Hall, 1985.
+
+\bibitem{holzmann1997spin}
+Gerard~J Holzmann.
+\newblock {\em The model checker SPIN}.
+\newblock IEEE Transactions on Software Engineering, 1997.
+
+\bibitem{honda1993types}
+Kohei Honda.
+\newblock Types for dyadic interaction.
+\newblock In {\em CONCUR'93}. Springer, 1993.
+
+\bibitem{milner1989communication}
+Robin Milner.
+\newblock {\em Communication and concurrency}.
+\newblock Prentice Hall, 1989.
+
+\bibitem{milner1992polyadic}
+Robin Milner.
+\newblock The polyadic $\pi$-calculus: a tutorial.
+\newblock 1992.
+
+\bibitem{wadler1990linear}
+Philip Wadler.
+\newblock Linear types can change the world!
+\newblock 1990.
+
+\end{thebibliography}
