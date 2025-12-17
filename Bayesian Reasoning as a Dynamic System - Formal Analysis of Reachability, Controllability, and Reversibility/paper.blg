@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--empty journal in murphy2002dynamic
+You've used 22 entries,
+            1791 wiz_defined-function locations,
+            575 strings with 6838 characters,
+and the built_in function-call counts, 4532 in all, are:
+= -- 422
+> -- 172
+< -- 2
++ -- 67
+- -- 45
+* -- 264
+:= -- 721
+add.period$ -- 66
+call.type$ -- 22
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 221
+empty$ -- 462
+format.name$ -- 45
+if$ -- 1020
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 31
+newline$ -- 113
+num.names$ -- 22
+pop$ -- 75
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 88
+stack$ -- 0
+substring$ -- 260
+swap$ -- 37
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 46
+width$ -- 24
+write$ -- 243
+(There was 1 warning)
